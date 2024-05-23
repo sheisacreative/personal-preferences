@@ -6,4 +6,5 @@ Software preferences, settings and other stuff I like to use in order to improve
 
 ## Design
 
-`/Photoshop`: Photoshop settings (shortcuts, workspace,...).
+`/Photoshop`: Shortcuts, workspace, UI preferences and Save for Web preferences.
+`/Indesign`: Workspace preferences.
