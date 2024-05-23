@@ -7,5 +7,8 @@ Software preferences, settings and other stuff I like to use in order to improve
 ## Design
 
 - `/Photoshop`: settings, actions, shortcuts, scripts.
-  - `settings`: Shortcuts, workspace, UI preferences and Save for Web preferences.
-- `/Indesign`: Workspace preferences.
+  - `settings`: shortcuts, workspace, UI preferences and Save for Web preferences.
+  - `actions`: actions to create and save files.
+  - `shortcuts`: personal set of shortcuts.
+  - `scripts`: personal scripts to save files.
+- `/Indesign`: workspace preferences.
