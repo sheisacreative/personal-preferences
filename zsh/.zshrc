@@ -17,3 +17,6 @@ precmd() {
 
 setopt prompt_percent no_prompt_subst
 PS1="${RED_LIGHT}%T%f ${RED_LIGHT}•%f ${RED_LIGHT}%m%f %B${RED_DARK}%c%f%b ${BLUE_LIGHT}[%v]%f 🐮${NEW_LINE}"
+
+
+autoload -Uz compinit && compinit
